@@ -5,3 +5,8 @@ body {
 {
   background-color: #d2a0e5;
 }
+
+img {
+  width: inherit;
+  padding-right: 50px;
+}
